@@ -1,4 +1,4 @@
-#Making a Timer In C# .NET Forms
+# Making a Timer In C# .NET Forms
 
 - Easy to make
 - Fast an quick
